@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://consolexin.github.io/"/>
-  <updated>2019-05-01T03:50:51.239Z</updated>
+  <updated>2019-05-01T04:40:25.216Z</updated>
   <id>https://consolexin.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo采用Next主题</title>
+    <link href="https://consolexin.github.io/2019/05/01/hexo-cai-yong-next-zhu-ti/"/>
+    <id>https://consolexin.github.io/2019/05/01/hexo-cai-yong-next-zhu-ti/</id>
+    <published>2019-05-01T04:34:21.000Z</published>
+    <updated>2019-05-01T04:40:25.216Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;由于Hexo默认的主题是&lt;code&gt;landscape&lt;/code&gt;，于是我想将主题改为&lt;code&gt;Next&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&quot;安装Next&quot;&gt;&lt;a href=&quot;#安装Next&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://consolexin.github.io/tags/Hexo/"/>
+    
+      <category term="Next" scheme="https://consolexin.github.io/tags/Next/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -45,7 +72,7 @@
     <link href="https://consolexin.github.io/2018/11/23/github-hexo-next-da-jian-ge-ren-bo-ke/"/>
     <id>https://consolexin.github.io/2018/11/23/github-hexo-next-da-jian-ge-ren-bo-ke/</id>
     <published>2018-11-23T04:50:13.000Z</published>
-    <updated>2019-05-01T02:38:37.983Z</updated>
+    <updated>2019-05-01T04:38:44.274Z</updated>
     
     <summary type="html">
     
