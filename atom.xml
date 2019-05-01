@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://consolexin.github.io/"/>
-  <updated>2019-04-30T15:27:17.164Z</updated>
+  <updated>2019-05-01T02:40:10.161Z</updated>
   <id>https://consolexin.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://consolexin.github.io/2019/04/30/hello-world/"/>
-    <id>https://consolexin.github.io/2019/04/30/hello-world/</id>
-    <published>2019-04-30T15:27:17.164Z</published>
-    <updated>2019-04-30T15:27:17.164Z</updated>
+    <link href="https://consolexin.github.io/2018/11/23/hello-world/"/>
+    <id>https://consolexin.github.io/2018/11/23/hello-world/</id>
+    <published>2018-11-23T04:50:13.000Z</published>
+    <updated>2019-05-01T02:40:10.161Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,8 @@
     </summary>
     
     
+      <category term="随便写写" scheme="https://consolexin.github.io/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    
   </entry>
   
   <entry>
@@ -43,7 +45,7 @@
     <link href="https://consolexin.github.io/2018/11/23/github-hexo-next-da-jian-ge-ren-bo-ke/"/>
     <id>https://consolexin.github.io/2018/11/23/github-hexo-next-da-jian-ge-ren-bo-ke/</id>
     <published>2018-11-23T04:50:13.000Z</published>
-    <updated>2019-05-01T01:40:11.237Z</updated>
+    <updated>2019-05-01T02:38:37.983Z</updated>
     
     <summary type="html">
     
