@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>星魂阁</title>
   
-  <subtitle>友情链接</subtitle>
+  <subtitle>从来没有真正的绝境，只有心灵的迷途</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://consolexin.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://consolexin.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Consolexin</name>
     
   </author>
   
@@ -35,6 +35,38 @@
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>Github+Hexo+Next搭建个人博客</title>
+    <link href="https://consolexin.github.io/2018/11/23/github-hexo-next-da-jian-ge-ren-bo-ke/"/>
+    <id>https://consolexin.github.io/2018/11/23/github-hexo-next-da-jian-ge-ren-bo-ke/</id>
+    <published>2018-11-23T04:50:13.000Z</published>
+    <updated>2019-05-01T01:40:11.237Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;安装Node-js环境&quot;&gt;&lt;a href=&quot;#安装Node-js环境&quot; class=&quot;headerlink&quot; title=&quot;安装Node.js环境&quot;&gt;&lt;/a&gt;安装Node.js环境&lt;/h4&gt;&lt;p&gt;进入&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="个人博客" scheme="https://consolexin.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="Hexo" scheme="https://consolexin.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/Hexo/"/>
+    
+    
+      <category term="Github" scheme="https://consolexin.github.io/tags/Github/"/>
+    
+      <category term="Hexo" scheme="https://consolexin.github.io/tags/Hexo/"/>
+    
+      <category term="Next" scheme="https://consolexin.github.io/tags/Next/"/>
     
   </entry>
   
